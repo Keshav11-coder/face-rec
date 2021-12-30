@@ -1,8 +1,4 @@
-# face-rec
-this is the code for face recognition with python (and maybe future opencv)
-
-#>starting here>the code>#
-
+#face rec
 import cv2
 import face_recognition
 import sys
@@ -49,6 +45,3 @@ def analyze_user():
 
 take_pic()
 analyze_user()
-#>ending here>the code>#
-
-#you are welcome
